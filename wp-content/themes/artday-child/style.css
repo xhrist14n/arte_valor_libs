@@ -1,0 +1,19 @@
+/*
+Theme Name: Artday Child Theme
+Theme URI: http://artday-wp.wossthemes.com
+Description: Ecommerce Single Product Theme that can be used by a creative artist, agency, shop, for selling your prints. 
+Author: WossThemes
+Author URI: http://themeforest.net/user/wossthemes
+Template: artday
+Version: 1.1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, white, red
+Text Domain: artday
+*/
+
+/* Import the original Parent Theme Styles */
+@import url("../artday/style.css");
+.ws-logo img {
+    max-height: 100px;
+}
