@@ -1,4 +1,6 @@
+
 	 jQuery(function() {
+								
 
 		var $wrapper 				= 	jQuery(options_isw.wrapper_products),
 			icon 					=	options_isw.icon,
